@@ -18,6 +18,6 @@ I'm Andrew Dong, a Software Engineering student at the University of Waterloo! �
 
 I'm interested in Game Design and Web Development! 🎮
 
-Some of the languages I'm most comfortable with are: C++, C#, HTML, CSS, and Java. 💻
+Some of the languages I'm most comfortable with are: C++, C#, Kotlin, HTML, CSS, and Java. 💻
 
 You can contact me at andrewdong1@gmail.com or a28dong@uwaterloo.ca ✉️
