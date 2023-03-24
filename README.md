@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey! 👋
 <!--
 **a28dong/a28dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! 👋
 I'm Andrew Dong, a Software Engineering student at the University of Waterloo! 🏫
 
 I'm interested in Game Design and Web Development! 🎮
@@ -23,3 +22,5 @@ My favourite languages are: C++, C#, Kotlin,and Java. 💻
 (Currently learning Typescript and Javascript)
 
 You can contact me @ andrewdong1@gmail.com or a28dong@uwaterloo.ca ✉️
+
+I like crabs :)
