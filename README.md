@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hey! 👋
 I'm Andrew Dong, a Software Engineering student at the University of Waterloo! 🏫
 
 I'm interested in Game Design and Web Development! 🎮
 
-Some of the languages I'm most comfortable with are: C++, C#, Kotlin, HTML, CSS, and Java. 💻
+My favourite languages are: C++, C#, Kotlin,and Java. 💻 
+(Currently learning Typescript and Javascript)
 
-You can contact me at andrewdong1@gmail.com or a28dong@uwaterloo.ca ✉️
+You can contact me @ andrewdong1@gmail.com or a28dong@uwaterloo.ca ✉️
