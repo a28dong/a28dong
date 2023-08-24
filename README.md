@@ -18,8 +18,8 @@ I'm Andrew Dong, a Software Engineering student at the University of Waterloo! �
 
 I'm interested in Game Design and Web Development! 🎮
 
-My favourite languages are: C++, C#, Kotlin,and Java. 💻 
-(Currently learning Typescript and Javascript)
+My favourite languages are: C++, C#, Python, and Javascript. 💻 
+
 
 You can contact me @ andrewdong1@gmail.com or a28dong@uwaterloo.ca ✉️
 
