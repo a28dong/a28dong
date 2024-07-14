@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andrew Dong, a Software Engineering student at the University of Waterloo! 🏫
+I'm Andrew Dong, a recent Software Engineering graduate of the University of Waterloo! 🏫
 
-I'm interested in Game Design and Web Development! 🎮
-
-My favourite languages are: C++, C#, Python, and Javascript. 💻 
-
+I do full-stack development - my favourite languages are: C++, Python, and Javascript (React). 💻 
 
 You can contact me @ andrewdong1@gmail.com or a28dong@uwaterloo.ca ✉️
 
-I like crabs :)
+I like crabs 🦀
